@@ -1,1 +1,11 @@
 @import url('nav.css');
+
+* {
+    font-family: 'Karla';
+    padding: 0rem;
+    margin: 0rem;
+}
+
+#header-main {
+    background-color: #252525;
+}
