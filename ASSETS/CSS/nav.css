@@ -2,7 +2,6 @@ nav {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-color: grey;
 }
 
 nav ul {
@@ -12,5 +11,8 @@ nav ul {
 }
 
 nav ul li {
-    margin: 0.5rem;
+    margin: 1rem;
+    color: white;
+    font-size: 24px;
+    font-weight: 600;
 }
